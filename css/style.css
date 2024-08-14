@@ -1,0 +1,30 @@
+.container {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+header {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a {
+  text-decoration: dashed;
+  color: black;
+}
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: red;
+}
+
+.static {
+  width: 280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
